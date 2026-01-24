@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there 
 
-<!--
-**lp-py/lp-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work with **data science using Python**, with a focus on data analysis, visualization, and machine learning.
 
-Here are some ideas to get you started:
+My academic background includes **signal processing and neuroscience**, and I am particularly interested in applying data-driven methods to biomedical and neuroscience-related problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Areas of interest
+- Data analysis & visualization  
+- Machine learning (applied to real-world datasets)  
+- Signal processing  
+- Neuroscience & biomedical data  
+
+### Tools & technologies
+- Python (pandas, numpy, matplotlib, seaborn, scikit-learn)
+- Git & GitHub
+
+### Selected projects
+- **Data visualization project** – Poster-based analysis on chronic kidney disease and blood-brain barrier-related data  
+- **Machine learning project** – Epilepsy-related data analysis and modeling  
+
+> All projects presented here are **personal and independent**, using **publicly available datasets** only
