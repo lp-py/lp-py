@@ -6,7 +6,7 @@ My academic background includes **signal processing and neuroscience**, and I am
 
 ### Areas of interest
 - Data analysis & visualization  
-- Machine learning (applied to real-world datasets)  
+- Machine learning (applied to realworld datasets)  
 - Signal processing  
 - Neuroscience & biomedical data  
 
@@ -15,7 +15,7 @@ My academic background includes **signal processing and neuroscience**, and I am
 - Git & GitHub
 
 ### Selected projects
-- **Data visualization project** – Poster-based analysis on chronic kidney disease and blood-brain barrier-related data  
-- **Machine learning project** – Epilepsy-related data analysis and modeling  
+- **Data visualization project** : Poster-based analysis on chronic kidney disease and blood-brain barrier-related data  
+- **Machine learning project** : Epilepsy-related data analysis and modeling  
 
 > Projects presented here are academic or personal projects. They contain no data or code from my professional work
