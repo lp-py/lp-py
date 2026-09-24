@@ -18,4 +18,4 @@ My academic background includes **signal processing and neuroscience**, and I am
 - **Data visualization project** – Poster-based analysis on chronic kidney disease and blood-brain barrier-related data  
 - **Machine learning project** – Epilepsy-related data analysis and modeling  
 
-> All projects presented here are **personal and independent**, using **publicly available datasets** only
+> Projects presented here are academic or personal projects. They contain no data or code from my professional work
