@@ -5,14 +5,14 @@ I work with **data science using Python**, with a focus on data analysis, visual
 My academic background includes **signal processing and neuroscience**, and I am particularly interested in applying data-driven methods to biomedical and neuroscience-related problems.
 
 ### Areas of interest
-- Data analysis & visualization  
+- Data analysis & visualization
+- Multimodal statistical analysis 
 - Machine learning (applied to realworld datasets)  
 - Signal processing  
 - Neuroscience & biomedical data  
 
 ### Tools & technologies
-- Python (pandas, numpy, matplotlib, seaborn, scikit-learn)
-- Git & GitHub
+- Python (pandas, numpy, matplotlib, seaborn, scikit-learn, streamlit, matlab)
 
 ### Selected projects
 - **Data visualization project** : Poster-based analysis on chronic kidney disease and blood-brain barrier-related data  
